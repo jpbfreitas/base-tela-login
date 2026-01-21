@@ -12,6 +12,26 @@ body {
   min-height: 100vh;
 }
 
+.topo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+
+.topo img {
+  width: 32px;
+  height: 32px;
+}
+
+.topo span {
+  font-size: 14px;
+  font-weight: bold;
+  color: #444;
+}
+
 .container {
   background: #ffffff;
   width: 300px;
