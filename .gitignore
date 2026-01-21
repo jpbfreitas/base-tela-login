@@ -1,0 +1,5 @@
+/temp
+arquivo.txt
+.env
+*.db
+.example
